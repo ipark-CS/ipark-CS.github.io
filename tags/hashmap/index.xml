@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hashmap on iPark memoization</title>
+    <title>hashMap on iPark memoization</title>
     <link>https://ipark-cs.github.io/tags/hashmap/</link>
-    <description>Recent content in Hashmap on iPark memoization</description>
+    <description>Recent content in hashMap on iPark memoization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://ipark-cs.github.io/tags/hashmap/index.xml" rel="self" type="application/rss+xml" />
     
