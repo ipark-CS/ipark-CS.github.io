@@ -5,9 +5,6 @@
     <loc>https://ipark-cs.github.io/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/dp/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,7 +14,10 @@
     <loc>https://ipark-cs.github.io/tags/knapsack/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/knapsack-dp/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/knapsack/</loc>
+    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/leetcode/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/</loc>
@@ -29,13 +29,16 @@
     <loc>https://ipark-cs.github.io/tags/leetcode/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/leetcode-hashmap-1817.-finding-the-users-active-minutes/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/findingusersactiveminutes/</loc>
     <lastmod>2021-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/array/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/kdiffpairs/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/kdiffpairs/</loc>
+    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/leetcode/maxuniqsubstr/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/minincrementforunique/</loc>
@@ -44,31 +47,28 @@
     <loc>https://ipark-cs.github.io/tags/twitter-oa/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/uniq-twitter-user-id-set/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/getuniquseridsum/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/weiredfaculty/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/weirdfaculty/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/weiredfaculty/</loc>
-    <lastmod>2021-05-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/code/combinationsum/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/combinationsum/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/combinationsum2/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/combinationsum2/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/max_sum_subarray/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/maxsumsubarr/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/memoization/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/number_of_score_combinations/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/number_of_score_combinations/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/code/number_of_traversals_staircase/</loc>
+    <loc>https://ipark-cs.github.io/leetcode/number_of_traversals_staircase/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/top-down/</loc>
@@ -86,7 +86,7 @@
     <loc>https://ipark-cs.github.io/tags/madrl/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/multi-agent-deep-reinforcement-learning-for-walker-systems/</loc>
+    <loc>https://ipark-cs.github.io/projects/drl/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/ppo/</loc>
@@ -122,7 +122,7 @@
     <loc>https://ipark-cs.github.io/tags/power-law/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/power-of-bts-army-for-social-change-envisaged-by-twitter-network-analysis/</loc>
+    <loc>https://ipark-cs.github.io/projects/sna/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/semantic-network/</loc>
@@ -140,7 +140,7 @@
     <loc>https://ipark-cs.github.io/tags/full-stack/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/gnt-market-full-stack-web-app/</loc>
+    <loc>https://ipark-cs.github.io/projects/gntmarket/</loc>
     <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/java-servlet/</loc>
@@ -158,7 +158,7 @@
     <loc>https://ipark-cs.github.io/tags/deep-reinforcement-learning/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/harnessing-the-malware-detection-ml-models-using-deep-reinforcement-learning/</loc>
+    <loc>https://ipark-cs.github.io/projects/malwareevasion/</loc>
     <lastmod>2020-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/malware-detection/</loc>
@@ -176,7 +176,7 @@
     <loc>https://ipark-cs.github.io/tags/cryptograph/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/the-blowfish-block-cipher-system/</loc>
+    <loc>https://ipark-cs.github.io/projects/blowfish/</loc>
     <lastmod>2020-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/aws/</loc>
@@ -191,7 +191,7 @@
     <loc>https://ipark-cs.github.io/tags/deeplabv3&#43;/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/lighter-faster-semantic-segmentation-by-post-training-quantization-and-quantization-aware-training/</loc>
+    <loc>https://ipark-cs.github.io/projects/deeplab/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/mobilenet/</loc>
@@ -227,13 +227,13 @@
     <loc>https://ipark-cs.github.io/tags/pytorch/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/semantic-textual-similarity-using-transfer-learning-and-embeddings/</loc>
+    <loc>https://ipark-cs.github.io/projects/sts/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/sentiment-analysis/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/projects/sentiment-analysis-using-machine-learning-and-deep-learning/</loc>
+    <loc>https://ipark-cs.github.io/projects/sa/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/sts/</loc>
