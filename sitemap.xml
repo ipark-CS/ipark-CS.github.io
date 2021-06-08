@@ -3,7 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ipark-cs.github.io/</loc>
-    <lastmod>2021-06-08T14:20:36-07:00</lastmod>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/dsa/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dsa/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/mergesort/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dsa/mergesort/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/partition/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/sorting/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/</loc>
+    <lastmod>2021-06-08T16:15:56-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/k-th-element/</loc>
+    <lastmod>2021-06-08T16:09:28-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/quickselect/</loc>
+    <lastmod>2021-06-08T16:09:28-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dsa/quickselect/</loc>
+    <lastmod>2021-06-08T16:09:28-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/swap/</loc>
+    <lastmod>2021-06-08T16:09:28-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/tags/quicksort/</loc>
+    <lastmod>2021-06-08T16:08:30-07:00</lastmod>
+  </url><url>
+    <loc>https://ipark-cs.github.io/dsa/quicksort/</loc>
+    <lastmod>2021-06-08T16:08:30-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/tags/binary-array/</loc>
     <lastmod>2021-06-08T14:20:36-07:00</lastmod>
@@ -20,9 +62,6 @@
     <loc>https://ipark-cs.github.io/tags/hackerrank/</loc>
     <lastmod>2021-06-08T14:20:36-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/</loc>
-    <lastmod>2021-06-08T14:20:36-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/tags/twitter-oa/</loc>
     <lastmod>2021-06-08T14:20:36-07:00</lastmod>
   </url><url>
@@ -32,13 +71,7 @@
     <loc>https://ipark-cs.github.io/hackerrank/minswaps/</loc>
     <lastmod>2021-06-07T21:47:31-07:00</lastmod>
   </url><url>
-    <loc>https://ipark-cs.github.io/tags/swap/</loc>
-    <lastmod>2021-06-07T21:47:31-07:00</lastmod>
-  </url><url>
     <loc>https://ipark-cs.github.io/hackerrank/jumpingonclouds/</loc>
-    <lastmod>2021-06-07T15:47:09-07:00</lastmod>
-  </url><url>
-    <loc>https://ipark-cs.github.io/tags/recursion/</loc>
     <lastmod>2021-06-07T15:47:09-07:00</lastmod>
   </url><url>
     <loc>https://ipark-cs.github.io/hackerrank/substrspecial/</loc>
